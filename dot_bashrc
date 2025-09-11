@@ -157,3 +157,5 @@ if [[ "$TERM" == "xterm" ]]; then
 fi
 # Custom editions
 set -o vi
+eval "$(mise activate bash)"
+
